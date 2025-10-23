@@ -29,6 +29,9 @@ Since there is only one store location for Tapioca Chews, the owner wants to kee
 
 
 # Data Model 
+Explanation of Data Model: 
+
+bakdhweu ofherther iohf hwp o 
 
 # Data Dictionary
 
