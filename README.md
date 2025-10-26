@@ -2,7 +2,7 @@
 59925_GroupProject1 - Tapioca Chews 
 
 # Team Members 
-1. Jay Tran
+1. Jay Tran [@TeaQuoffee](https://github.com/TeaQuoffee)
 2. Sulema Gonzalez [@sulemagonzalez90](https://github.com/sulemagonzalez90)
 3. Iris Huang [@ih1024](https://github.com/ih1024)
 4. Abby Simmavanh [@asmmi27](https://github.com/asmmi27)
