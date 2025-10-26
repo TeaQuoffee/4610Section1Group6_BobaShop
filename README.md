@@ -6,7 +6,7 @@
 2. Sulema Gonzalez [@sulemagonzalez90](https://github.com/sulemagonzalez90)
 3. Iris Huang [@ih1024](https://github.com/ih1024)
 4. Abby Simmavanh [@asmmi27](https://github.com/asmmi27)
-5. Julia Tardy
+5. Julia Tardy [@jutardy32](https://github.com/jutardy32)
 
 # Scenario
 Tapioca Chews is a small but growing bubble tea shop located in downtown Athens. They’ve recently expanded their operations, adding online ordering, new fruit tea drinks, and new employees. Up to now they’ve been keeping track of orders and inventory using spreadsheets, but as the business grows, it’s becoming hard to manage efficiently and as questions arise such as order questions it is hard to answer. To modernize their operations, the owners want us to create an SQL database that stores and tracks all the key information about their business.
